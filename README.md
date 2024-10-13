@@ -1,4 +1,5 @@
 # Data Collection of Surnames and First Names from Wikipedia
+#The project was done as part of academic studies
 
 ## Project Description
 This project involves the collection of surname and first name data from Wikipedia. The data was gathered using the Python programming language and the Pandas library. 
